@@ -1,8 +1,3 @@
-# main.py
-import streamlit as st
-
-st.text('hello Streamlit!')
-
 # 1️⃣ 설치 (터미널에 입력)
 # pip install streamlit pandas matplotlib openpyxl seaborn plotly
 
